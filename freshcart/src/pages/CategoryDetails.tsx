@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams, Link } from "react-router-dom"; // تأكدي من استيراد Link
+import { useParams, Link } from "react-router-dom"; 
 import { api } from "../services/api";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
